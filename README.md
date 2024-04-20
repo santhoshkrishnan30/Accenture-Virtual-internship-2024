@@ -11,6 +11,8 @@
 *By reading and understanding the data, the primary and secondary columns should be taken, analyzed, and visualized
 *After the analysis, data insight has to be provided into which month the app was used at a higher time and which is the better category in terms of score.
 
-# Dashboard 👇
+# Dashboard 👇🏻
 
 https://public.tableau.com/app/profile/santhosh.krishnan.r/viz/Accenture-virtualintern-task3-forage/Dashboard1?publish=yes
+
+
